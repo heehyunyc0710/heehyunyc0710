@@ -16,6 +16,8 @@ Feel free to explore some of my ongoing projects:
 
 [MeetFriends](https://meetup-backend-witc.onrender.com)
 
+[Little_Lemon_Django_API](https://github.com/heehyun1128/LITTLE_LEMON_DJANGO_API)
+
 
 These projects showcase my skills and dedication to creating impactful solutions. Stay tuned for more updates and improvements!
 

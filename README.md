@@ -32,4 +32,4 @@ These projects showcase my skills and dedication to creating impactful solutions
 
 [LinkedIn](https://www.linkedin.com/in/yi-c-452811132/)
 
-[Portfolio & Resume](https://heehyun1128.github.io/)
+Email chenyiapp@berkeley.edu

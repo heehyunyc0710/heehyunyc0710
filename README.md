@@ -10,13 +10,21 @@ My current projects are a reflection of my passion for innovation and problem-so
 
 Feel free to explore some of my ongoing projects:
 
-[Moment](https://moment-2igd.onrender.com)
+1. FULL STACK 
 
-[Petsy](https://petsy-kn3b.onrender.com/)
+    [Moment](https://moment-2igd.onrender.com)
 
-[MeetFriends](https://meetup-backend-witc.onrender.com)
+    [Petsy](https://petsy-kn3b.onrender.com/)
 
-[Little_Lemon_Django_API](https://github.com/heehyun1128/LITTLE_LEMON_DJANGO_API)
+    [MeetFriends](https://meetup-backend-witc.onrender.com)
+
+2. UI/UX Design & vanilla JS Frontend
+
+    [Y.CHEN Design](https://unusual-eel-clothes.cyclic.app/)
+
+3. Back-End API Project
+
+    [Little_Lemon_Django_API](https://github.com/heehyun1128/LITTLE_LEMON_DJANGO_API)
 
 
 These projects showcase my skills and dedication to creating impactful solutions. Stay tuned for more updates and improvements!
@@ -25,10 +33,10 @@ These projects showcase my skills and dedication to creating impactful solutions
 
 ## Languages and Tools
 
-- Javascript ES6+, MERN Stack (React, React-Redux, Redux Toolkit, Express, MongoDB, Mongoose), HTML 5, CSS 3, SCSS (Sass), jQuery, Node, Bootstrap, Figma, 
-- Python 3, Flask, SQL, SQLite 3, Sequelize,  MySQL, PostgreSQL,  Amazon Web Services (AWS), Webpack, Google Map API
+- Javascript ES6+, MERN Stack (React, React-Redux, Redux Toolkit, Express, MongoDB, Mongoose), HTML 5, CSS 3, SCSS (Sass), jQuery, Node, Bootstrap, Figma
+- Python 3, Flask, Django DRF, SQL, SQLite 3, Sequelize,  MySQL, PostgreSQL,  Amazon Web Services (AWS), Webpack, Google Map API
 - Test-Driven Development (TDD), Object Oriented Programming (OOP), Data Structures and Algorithms, Agile Project Management
-- Heroku, Github, Firebase,
+- Heroku, Github, Firebase
 
 ## Connect with Me
 

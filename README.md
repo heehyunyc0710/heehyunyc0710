@@ -84,6 +84,8 @@ These projects showcase my skills and dedication to creating impactful solutions
 ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful_API-%231ABC9C.svg?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazon-aws)
+![Insomnia](https://img.shields.io/badge/Insomnia-%5849BE.svg?style=for-the-badge&logo=insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white)
 ![Google Map API](https://img.shields.io/badge/Google_Map_API-%234A154B?style=for-the-badge&logo=google-maps&logoColor=white)
 ![Mailchimp API](https://img.shields.io/badge/Mailchimp%20API-%23888888.svg?style=for-the-badge&logo=mailchimp&logoColor=white)
@@ -110,18 +112,14 @@ These projects showcase my skills and dedication to creating impactful solutions
 ![Agile](https://img.shields.io/badge/Agile-%23182C6F.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%23182C6F.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![CDN](https://img.shields.io/badge/CDN-%237776B2.svg?style=for-the-badge)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%233370E4.svg?style=for-the-badge)
 ![Cyclic](https://img.shields.io/badge/Cyclic-%23212121.svg?style=for-the-badge)
 ![Web Performance](https://img.shields.io/badge/Web_Performance-%23FFD700.svg?style=for-the-badge)
 
 
-MERN Stack (React, React-Redux, Redux Toolkit, Express, MongoDB, Mongoose), HTML 5, CSS 3, Bootstrap, SCSS (Sass), UI / UX Design / Figma, jQuery, Node, TypeScript, Axios, Ajax
-
-- Python 3, Flask, Django REST framework (DRF), API testing (Insomnia, Postman), Sequelize, ORM (object-relational mapping), SQL/NoSQL Database, SQLite 3, MySQL, PostgreSQL, MS SQL Server, RESTful API, Amazon Web Services (AWS), Webpack,  Google Map API, Unit and Integration testing (Mocha, Jest, Cypress), JSON, JWT, middleware, Java, Visual Basics
-
-- Git Version Control, Test-Driven Development (TDD), Object Oriented Programming (OOP), Data Structures and Algorithms, Agile Development Methodologies (Jira), Cloud Computing Basics, CDN (Content delivery network), Project Deployment (Heroku, Render, Cyclic), web performance optimization techniques
 
 
 

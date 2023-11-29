@@ -1,6 +1,7 @@
 # Hello, I'm Yi Chen! 👋
 
 ## About Me
+
 I'm a self-driven fullstack software engineer passionate about coding and agile project management. My goal is to make a positive impact on the world through innovative solutions and collaborative development.
 
 ## Github Stats

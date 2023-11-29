@@ -3,6 +3,8 @@
 ## About Me
 I'm a self-driven fullstack software engineer passionate about coding and agile project management. My goal is to make a positive impact on the world through innovative solutions and collaborative development.
 
+## Github Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=heehyun1128)](https://git.io/streak-stats)
 
 
 ## Current Projects
@@ -33,10 +35,13 @@ These projects showcase my skills and dedication to creating impactful solutions
 
 ## Languages and Tools
 
-- Javascript ES6+, MERN Stack (React, React-Redux, Redux Toolkit, Express, MongoDB, Mongoose), HTML 5, CSS 3, SCSS (Sass), jQuery, Node, Bootstrap, Figma
-- Python 3, Flask, Django DRF, SQL, SQLite 3, Sequelize,  MySQL, PostgreSQL,  Amazon Web Services (AWS), Webpack, Google Map API
-- Test-Driven Development (TDD), Object Oriented Programming (OOP), Data Structures and Algorithms, Agile Project Management
-- Heroku, Github, Firebase
+- Javascript ES5/ ES6+, MERN Stack (React, React-Redux, Redux Toolkit, Express, MongoDB, Mongoose), HTML 5, CSS 3, Bootstrap, SCSS (Sass), UI / UX Design / Figma, jQuery, Node, TypeScript, Axios, Ajax
+
+- Python 3, Flask, Django REST framework (DRF), API testing (Insomnia, Postman), Sequelize, ORM (object-relational mapping), SQL/NoSQL Database, SQLite 3, MySQL, PostgreSQL, MS SQL Server, RESTful API, Amazon Web Services (AWS), Webpack,  Google Map API, Unit and Integration testing (Mocha, Jest, Cypress), JSON, JWT, middleware, Java, Visual Basics
+
+- Git Version Control, Test-Driven Development (TDD), Object Oriented Programming (OOP), Data Structures and Algorithms, Agile Development Methodologies (Jira), Cloud Computing Basics, CDN (Content delivery network), Project Deployment (Heroku, Render, Cyclic), web performance optimization techniques
+
+- Firebase, Heroku, Render, Cyclic
 
 ## Connect with Me
 

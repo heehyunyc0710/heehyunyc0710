@@ -4,6 +4,14 @@
 
 I'm a self-driven fullstack software engineer passionate about coding and agile project management. My goal is to make a positive impact on the world through innovative solutions and collaborative development.
 
+I'm currently polishing my projects as well as data structures and algorithms.
+
+😊 Let's connect!
+
+    LinkedIn: [LinkedIn](https://www.linkedin.com/in/yi-c-452811132/)
+
+    Email: chenyiapp@berkeley.edu
+
 ## Github Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=heehyun1128)](https://git.io/streak-stats)
@@ -46,8 +54,4 @@ These projects showcase my skills and dedication to creating impactful solutions
 
 - Firebase, Heroku, Render, Cyclic
 
-## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/yi-c-452811132/)
-
-Email chenyiapp@berkeley.edu

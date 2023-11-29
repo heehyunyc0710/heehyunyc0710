@@ -49,14 +49,17 @@ These projects showcase my skills and dedication to creating impactful solutions
 - Front-End
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=2C3E50&color=61DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23824198.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -98,16 +101,12 @@ These projects showcase my skills and dedication to creating impactful solutions
 ![Cypress](https://img.shields.io/badge/Cypress-%23FF715B.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
 
-
-
-
-
+- Other Tools & Techniques
 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-%231A8B5F.svg?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-%23F89820.svg?style=for-the-badge)
 ![DS&A](https://img.shields.io/badge/DS%26A-%234284B1.svg?style=for-the-badge)
-
 ![Agile](https://img.shields.io/badge/Agile-%23182C6F.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%23182C6F.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![CDN](https://img.shields.io/badge/CDN-%237776B2.svg?style=for-the-badge)
@@ -118,7 +117,7 @@ These projects showcase my skills and dedication to creating impactful solutions
 ![Web Performance](https://img.shields.io/badge/Web_Performance-%23FFD700.svg?style=for-the-badge)
 
 
-- Javascript ES5/ ES6+, MERN Stack (React, React-Redux, Redux Toolkit, Express, MongoDB, Mongoose), HTML 5, CSS 3, Bootstrap, SCSS (Sass), UI / UX Design / Figma, jQuery, Node, TypeScript, Axios, Ajax
+MERN Stack (React, React-Redux, Redux Toolkit, Express, MongoDB, Mongoose), HTML 5, CSS 3, Bootstrap, SCSS (Sass), UI / UX Design / Figma, jQuery, Node, TypeScript, Axios, Ajax
 
 - Python 3, Flask, Django REST framework (DRF), API testing (Insomnia, Postman), Sequelize, ORM (object-relational mapping), SQL/NoSQL Database, SQLite 3, MySQL, PostgreSQL, MS SQL Server, RESTful API, Amazon Web Services (AWS), Webpack,  Google Map API, Unit and Integration testing (Mocha, Jest, Cypress), JSON, JWT, middleware, Java, Visual Basics
 

@@ -4,10 +4,12 @@
 I'm a self-driven fullstack software engineer passionate about coding and agile project management. My goal is to make a positive impact on the world through innovative solutions and collaborative development.
 
 ## Github Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=heehyun1128)](https://git.io/streak-stats)
 
 
 ## Current Projects
+
 My current projects are a reflection of my passion for innovation and problem-solving. I'm always working on exciting and challenging tasks, striving to improve and contribute to the tech community.
 
 Feel free to explore some of my ongoing projects:

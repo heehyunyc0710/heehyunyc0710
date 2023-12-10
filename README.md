@@ -30,7 +30,7 @@ Feel free to explore some of my ongoing projects:
 
     [Petsy](https://petsy-kn3b.onrender.com/)
 
-    [MeetFriends](https://meetup-backend-witc.onrender.com)
+    [MeetFriends](https://meetup-clone-40bc08cdb811.herokuapp.com/)
 
 2. UI/UX Design & vanilla JS Frontend
 

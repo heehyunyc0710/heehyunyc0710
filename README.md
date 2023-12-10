@@ -34,7 +34,7 @@ Feel free to explore some of my ongoing projects:
 
 2. UI/UX Design & vanilla JS Frontend
 
-    [Y.CHEN Design](https://unusual-eel-clothes.cyclic.app/)
+    [Y.CHEN Design](https://ychendesign-2b257cc3348d.herokuapp.com/)
 
 3. Back-End API Project
 

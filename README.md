@@ -36,10 +36,10 @@ Feel free to explore some of my ongoing projects:
 
     [Y.CHEN Design](https://ychendesign-2b257cc3348d.herokuapp.com/)
 
-3. Back-End API Project
+3. Back-End API Project Using Django REST Framework (DRF)
 
     [Little_Lemon_Restaurant Table Booking System](https://github.com/heehyun1128/littlelemon_cap)
-    
+
     [Little_Lemon_Restaurant Online-based Order Management System API ](https://github.com/heehyun1128/LITTLE_LEMON_DJANGO_API)
 
 

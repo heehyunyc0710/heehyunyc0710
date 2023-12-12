@@ -6,7 +6,7 @@ I'm a self-driven fullstack software engineer passionate about coding and agile 
 
 ⌨️ I'm currently polishing my projects as well as data structures and algorithms.
 
-😊 Let's connect!
+😊 Let's connect! 
 
     🔗 LinkedIn: https://www.linkedin.com/in/yi-c-452811132/
 

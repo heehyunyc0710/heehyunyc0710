@@ -122,6 +122,11 @@ These projects showcase my skills and dedication to creating impactful solutions
 ![Render](https://img.shields.io/badge/Render-%233370E4.svg?style=for-the-badge)
 ![Cyclic](https://img.shields.io/badge/Cyclic-%23212121.svg?style=for-the-badge)
 ![Web Performance](https://img.shields.io/badge/Web_Performance-%23FFD700.svg?style=for-the-badge)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-66595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 
 
 

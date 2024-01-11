@@ -13,9 +13,9 @@ I'm a self-driven fullstack software engineer passionate about coding and agile 
     ✉️ Email: chenyiapp@berkeley.edu
  
 
-<!-- ## Github Stats
+## Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=heehyun1128)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=heehyun1128)](https://git.io/streak-stats)
 
 
 ## Current Projects

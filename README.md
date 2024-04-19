@@ -4,7 +4,7 @@
 
 I'm a self-driven fullstack software engineer passionate about coding and agile project management. My goal is to make a positive impact on the world through innovative solutions and collaborative development.
 
-⌨️ I'm currently polishing my projects as well as data structures and algorithms.
+⌨️ I'm currently working at Canvas (construction robotics) as a Software Intern.
 
 😊 Let's connect! 
 

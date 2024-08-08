@@ -30,13 +30,19 @@ Feel free to explore some of my ongoing projects:
 
     [Petsy](https://petsy-kn3b.onrender.com/)
 
-    [MeetFriends](https://meetup-clone-40bc08cdb811.herokuapp.com/)
+    [MeetFriends](https://meetup-backend-witc.onrender.com)
 
-2. UI/UX Design & vanilla JS Frontend
+2. AI/LLM
+   OPENAI API, LLAMA, Amazon EC2/ Bedrock API, RAG, Langchain Vector Embeddings
+   [Picto](https://picto-silk.vercel.app/)
+   [Inventa](https://inventa-v8of.vercel.app/)
+   [Chatters] Developing in progress - LLAMA, Amazon EC2/ Bedrock API, RAG
+   
+4. UI/UX Design & vanilla JS Frontend
 
     [Y.CHEN Design](https://ychendesign-2b257cc3348d.herokuapp.com/)
 
-3. Back-End API Projects - Django REST Framework (DRF)
+5. Back-End API Projects - Django REST Framework (DRF)
 
     [Little_Lemon_Restaurant Table Booking System](https://github.com/heehyun1128/littlelemon_cap)
 
@@ -48,8 +54,7 @@ These projects showcase my skills and dedication to creating impactful solutions
 
 
 ## Tech Stack & Tools
-- AI/LLM
-  OPENAI API, LLAMA, Amazon EC2/ Bedrock API, RAG, Langchain Vector Embeddings
+
   
 - Front-End
 

@@ -48,12 +48,17 @@ These projects showcase my skills and dedication to creating impactful solutions
 
 
 ## Tech Stack & Tools
+- AI/LLM
+  OPENAI API, LLAMA, Amazon EC2/ Bedrock API, RAG, Langchain Vector Embeddings
+  
 - Front-End
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=2C3E50&color=61DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23824198.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -82,7 +87,7 @@ These projects showcase my skills and dedication to creating impactful solutions
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![ORM](https://img.shields.io/badge/ORM-%23000000.svg?style=for-the-badge)
 ![Database](https://img.shields.io/badge/Database-%2300f.svg?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-%230F4C81.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)

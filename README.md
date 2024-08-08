@@ -34,6 +34,7 @@ Feel free to explore some of my ongoing projects:
 
 2. AI/LLM
    OPENAI API, LLAMA, Amazon EC2/ Bedrock API, RAG, Langchain Vector Embeddings
+   
    [Picto](https://picto-silk.vercel.app/)
    
    [Inventa](https://inventa-v8of.vercel.app/)

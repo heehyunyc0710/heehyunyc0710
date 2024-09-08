@@ -85,7 +85,14 @@ These projects showcase my skills and dedication to creating impactful solutions
 
 ## Tech Stack & Tools
 
+- AI/LLMs
   
+    LangChain, RAG, Pinecone, OpenAI (GPT Vision, Sentiment Analysis), Claude3, Llama3.1, Gemini, IBM Watson
+
+- Cloud Services
+  
+    Amazon Web Services (AWS DynamoDB, Lambda, S3, EC2, API Gateway, Bedrock), Google Cloud Platform
+
 - Front-End
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

@@ -36,38 +36,43 @@ Feel free to explore some of my ongoing projects:
    - Tools used:
      
        - RAG, Pinecone, LangChain Vector Embeddings, AWS Bedrock, LLama 3.1, Claude 3, OpenAI, IBM Watson
-       - AWS EC2, DynamoDB, Lambda, TypeScript, Python, NextJS, MongoDB, Firebase, Stripe, Clerk, React Camera Pro
-   - Projects:
+       - AWS EC2, AWS DynamoDB, AWS Lambda, MongoDB, Firebase, Stripe, Clerk, React Camera Pro
+       - Next.js, TypeScript, Python, Flask
+         
+   - Project Highlights
    
-       - Rate My Professor
+       - Rate My Professor (Web scraping, sentiment analysis, trend tracking)
              [Demo](https://www.youtube.com/watch?v=OlWGVpPpbb4)
          &
              [Repo](https://github.com/heehyun1128/rate_my_professor)
   
-       - Inventa (AI inventory tracker)
+       - Inventa AI inventory management software (GPT Vision image classification)
              [Live](https://inventa-v8of.vercel.app/)
          &
              [Repo](https://github.com/heehyun1128/Inventa)
   
-       - Chatters (customer support agent )
+       - Chatters customer support agent (LangChain, Pinecone, LLMs, Python, and AWS Bedrock )
              [Demo](https://www.youtube.com/watch?v=jKylYEVI1sM)
          &
              [Repo](https://github.com/heehyun1128/Chatters)
-         
-       - Picto (Image Processing)
-             [Live](https://picto-silk.vercel.app/)
-             &
-             [Repo](https://github.com/heehyun1128/Picto)
-   
-      
+  
+       - Rulla (Hiring Hackathon AI project for Rilla - transcript management with AWS services and OpenAI)
+             [Demo](https://www.youtube.com/watch?v=M1iIi9_NeAw)
+         &
+             [Repo](https://github.com/heehyun1128/rulla)
+  
+      - Saas AI Flashcard (Next.js, TypeScript, Firebase, Clerk, Stripe)
+            [Demo](https://www.youtube.com/watch?v=XA54cJR2KpM)
+        &
+            [Repo](https://github.com/heehyun1128/flashcard)
    
        
    
-4. UI/UX Design & vanilla JS Frontend
+4. Frontend Design with vanilla JS, CSS, HTML
 
     [Y.CHEN Design](https://ychendesign-2b257cc3348d.herokuapp.com/)
 
-5. Back-End API Projects - Django REST Framework (DRF)
+5. Back-End API Projects with Django REST Framework (DRF)
 
     [Little_Lemon_Restaurant Table Booking System](https://github.com/heehyun1128/littlelemon_cap)
 

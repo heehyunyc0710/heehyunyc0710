@@ -27,7 +27,7 @@ Feel free to explore some of my ongoing projects:
 
     [Moment](https://moment-2igd.onrender.com)
 
-    [Petsy](https://petsy-kn3b.onrender.com/)
+    [Petsy](https://www.youtube.com/watch?v=zZzEIE8DafE)
 
     [MeetFriends](https://meetup-backend-witc.onrender.com)
 

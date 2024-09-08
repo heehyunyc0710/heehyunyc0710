@@ -31,20 +31,43 @@ Feel free to explore some of my ongoing projects:
 
     [MeetFriends](https://meetup-backend-witc.onrender.com)
 
-2. AI/LLM
-   OPENAI API, LLAMA, Amazon EC2/ Bedrock API, RAG, Langchain Vector Embeddings
+2. AI Applications
+
+   - Tools used:
+     
+       - RAG, Pinecone, LangChain Vector Embeddings, AWS Bedrock, LLama 3.1, Claude 3, OpenAI, IBM Watson
+       - AWS EC2, DynamoDB, Lambda, TypeScript, Python, NextJS, MongoDB, Firebase, Stripe, Clerk, React Camera Pro
+   - Projects:
    
-   [Picto](https://picto-silk.vercel.app/)
+       - Rate My Professor
+             [Demo](https://www.youtube.com/watch?v=OlWGVpPpbb4)
+         &
+             [Repo](https://github.com/heehyun1128/rate_my_professor)
+  
+       - Inventa (AI inventory tracker)
+             [Live](https://inventa-v8of.vercel.app/)
+         &
+             [Repo](https://github.com/heehyun1128/Inventa)
+  
+       - Chatters (customer support agent )
+             [Demo](https://www.youtube.com/watch?v=jKylYEVI1sM)
+         &
+             [Repo](https://github.com/heehyun1128/Chatters)
+         
+       - Picto (Image Processing)
+             [Live](https://picto-silk.vercel.app/)
+             &
+             [Repo](https://github.com/heehyun1128/Picto)
    
-   [Inventa](https://inventa-v8of.vercel.app/)
+      
    
-   [Chatters] Developing in progress - LLAMA, Amazon EC2/ Bedrock API, RAG
+       
    
-3. UI/UX Design & vanilla JS Frontend
+4. UI/UX Design & vanilla JS Frontend
 
     [Y.CHEN Design](https://ychendesign-2b257cc3348d.herokuapp.com/)
 
-4. Back-End API Projects - Django REST Framework (DRF)
+5. Back-End API Projects - Django REST Framework (DRF)
 
     [Little_Lemon_Restaurant Table Booking System](https://github.com/heehyun1128/littlelemon_cap)
 

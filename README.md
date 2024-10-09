@@ -4,14 +4,6 @@
 
 I'm a self-driven fullstack software engineer passionate about coding and agile project management. 
 
-
-😊 Let's connect! 
-
-    🔗 LinkedIn: https://www.linkedin.com/in/yi-c-452811132/
-
-    ✉️ Email: chenyiapp@berkeley.edu
- 
-
 ## Github Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=heehyun1128)](https://git.io/streak-stats)

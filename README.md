@@ -13,23 +13,26 @@ I'm a self-driven fullstack software engineer passionate about coding and AI/ML 
 
 My current projects are a reflection of my passion for innovation and problem-solving. I'm always working on exciting and challenging tasks, striving to improve and contribute to the tech community.
 
-Feel free to explore some of my ongoing projects:
+Feel free to explore some of my projects:
 
-1. FULL STACK 
+1. Full Stack  
 
-    [Moment](https://moment-2igd.onrender.com)
+    - Moment
+    [Live](https://moment-2igd.onrender.com)
+     & [Repo](https://github.com/heehyun1128/yc-Moment)
+  
+   - Petsy
+    [Demo](https://www.youtube.com/watch?v=zZzEIE8DafE)
+   & [Repo](https://github.com/nickhosman/Petsy)
+ 
 
-    [Petsy](https://www.youtube.com/watch?v=zZzEIE8DafE)
-
-    [MeetFriends](https://meetup-backend-witc.onrender.com)
-
-2. Machine Learning Project
+3. Machine Learning Projects
 
     - Customer Churn Prediction
-   
     [Repo](https://github.com/heehyun1128/customer_churn_prediction)
 
-4. AI Applications
+
+4. AI Full Stack Applications
 
    - Tools used:
      
@@ -42,7 +45,7 @@ Feel free to explore some of my ongoing projects:
        - Rate My Professor (Web scraping, sentiment analysis, trend tracking)
              [Demo](https://www.youtube.com/watch?v=OlWGVpPpbb4)
          &
-             [Repo](https://github.com/heehyun1128/rate_my_professor)
+             [Repo](https://github.com/heehyun1128/dream_prof)
   
        - Inventa AI inventory management software (GPT Vision image classification)
              [Live](https://inventa-v8of.vercel.app/)

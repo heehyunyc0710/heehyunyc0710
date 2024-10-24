@@ -23,7 +23,13 @@ Feel free to explore some of my ongoing projects:
 
     [MeetFriends](https://meetup-backend-witc.onrender.com)
 
-2. AI Applications
+2. Machine Learning Project
+
+    - Customer Churn Prediction
+   
+    [Repo](https://github.com/heehyun1128/customer_churn_prediction)
+
+4. AI Applications
 
    - Tools used:
      
@@ -60,7 +66,7 @@ Feel free to explore some of my ongoing projects:
    
        
 
-4. Back-End API Projects with Django REST Framework (DRF)
+5. Back-End API Projects with Django REST Framework (DRF)
 
     [Little_Lemon_Restaurant Table Booking System](https://github.com/heehyun1128/littlelemon_cap)
 

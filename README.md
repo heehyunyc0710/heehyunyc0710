@@ -59,12 +59,8 @@ Feel free to explore some of my ongoing projects:
             [Repo](https://github.com/heehyun1128/flashcard)
    
        
-   
-4. Frontend Design with vanilla JS, CSS, HTML
 
-    [Y.CHEN Design](https://ychendesign-2b257cc3348d.herokuapp.com/)
-
-5. Back-End API Projects with Django REST Framework (DRF)
+4. Back-End API Projects with Django REST Framework (DRF)
 
     [Little_Lemon_Restaurant Table Booking System](https://github.com/heehyun1128/littlelemon_cap)
 

@@ -25,14 +25,7 @@ Feel free to explore some of my projects:
     [Demo](https://www.youtube.com/watch?v=zZzEIE8DafE)
    & [Repo](https://github.com/nickhosman/Petsy)
  
-
-3. Machine Learning Projects
-
-    - Customer Churn Prediction
-    [Repo](https://github.com/heehyun1128/customer_churn_prediction)
-
-
-4. AI Full Stack Applications
+2.  AI Full Stack Applications
 
    - Tools used:
      
@@ -43,33 +36,26 @@ Feel free to explore some of my projects:
    - Project Highlights
    
        - Rate My Professor (Web scraping, sentiment analysis, trend tracking)
-             [Demo](https://www.youtube.com/watch?v=OlWGVpPpbb4)
-         &
              [Repo](https://github.com/heehyun1128/dream_prof)
   
        - Inventa AI inventory management software (GPT Vision image classification)
-             [Live](https://inventa-v8of.vercel.app/)
-         &
              [Repo](https://github.com/heehyun1128/Inventa)
   
-       - Chatters customer support agent (LangChain, Pinecone, LLMs, Python, and AWS Bedrock )
-             [Demo](https://www.youtube.com/watch?v=jKylYEVI1sM)
-         &
-             [Repo](https://github.com/heehyun1128/Chatters)
+       - AI Answer Agent (Next.js, TypeScript, Redis caching, Upstash/Redis rate limiting, Puppeteer web scraping )
+             [Repo](https://github.com/heehyun1128/wenti)
   
-       - Rulla (Hiring Hackathon AI project for Rilla - transcript management with AWS services and OpenAI)
-             [Demo](https://www.youtube.com/watch?v=M1iIi9_NeAw)
-         &
+       - Rulla AI transcript management ( AWS Lambda, DynamoDB, S3, and OpenAI)
              [Repo](https://github.com/heehyun1128/rulla)
   
       - Saas AI Flashcard (Next.js, TypeScript, Firebase, Clerk, Stripe)
-            [Demo](https://www.youtube.com/watch?v=XA54cJR2KpM)
-        &
             [Repo](https://github.com/heehyun1128/flashcard)
    
-       
+3. Machine Learning Projects
 
-5. Back-End API Projects with Django REST Framework (DRF)
+    - Customer Churn Prediction
+    [Repo](https://github.com/heehyun1128/customer_churn_prediction)
+
+4. Back-End API Projects with Django REST Framework (DRF)
 
     [Little_Lemon_Restaurant Table Booking System](https://github.com/heehyun1128/littlelemon_cap)
 

@@ -6,7 +6,7 @@ I'm a self-driven fullstack software engineer passionate about coding and AI/ML 
 
 ## Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=heehyun1128)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=heehyunyc0710)](https://git.io/streak-stats)
 
 
 ## Current Projects
@@ -19,7 +19,7 @@ Feel free to explore some of my projects:
 
     - Moment
     [Live](https://moment-2igd.onrender.com)
-     & [Repo](https://github.com/heehyun1128/yc-Moment)
+     & [Repo](https://github.com/heehyunyc0710/yc-Moment)
   
    - Petsy
     [Demo](https://www.youtube.com/watch?v=zZzEIE8DafE)
@@ -32,34 +32,13 @@ Feel free to explore some of my projects:
        - RAG, Pinecone, LangChain Vector Embeddings, AWS Bedrock, LLama 3.1, Claude 3, OpenAI, IBM Watson
        - AWS EC2, AWS DynamoDB, AWS Lambda, MongoDB, Firebase, Stripe, Clerk, React Camera Pro
        - Next.js, TypeScript, Python, Flask
-         
-   - Project Highlights
-   
-       - Rate My Professor (Web scraping, sentiment analysis, trend tracking)
-             [Repo](https://github.com/heehyun1128/dream_prof)
-  
-       - Inventa AI inventory management software (GPT Vision image classification)
-             [Repo](https://github.com/heehyun1128/Inventa)
-  
-       - AI Answer Agent (Next.js, TypeScript, Redis caching, Upstash/Redis rate limiting, Puppeteer web scraping )
-             [Repo](https://github.com/heehyun1128/wenti)
-  
-       - Rulla AI transcript management ( AWS Lambda, DynamoDB, S3, and OpenAI)
-             [Repo](https://github.com/heehyun1128/rulla)
-  
-      - Saas AI Flashcard (Next.js, TypeScript, Firebase, Clerk, Stripe)
-            [Repo](https://github.com/heehyun1128/flashcard)
+
    
 3. Machine Learning Projects
 
     - Customer Churn Prediction
-    [Repo](https://github.com/heehyun1128/customer_churn_prediction)
+    [Repo](https://github.com/heehyunyc0710/customer_churn_prediction)
 
-4. Back-End API Projects with Django REST Framework (DRF)
-
-    [Little_Lemon_Restaurant Table Booking System](https://github.com/heehyun1128/littlelemon_cap)
-
-    [Little_Lemon_Restaurant Online-based Order Management System API ](https://github.com/heehyun1128/LITTLE_LEMON_DJANGO_API)
 
 
 These projects showcase my skills and dedication to creating impactful solutions. Stay tuned for more updates and improvements!

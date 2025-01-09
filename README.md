@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a self-driven fullstack software engineer passionate about coding and AI/ML technologies.
+I'm a self-driven fullstack software engineer passionate about product development and AI/ML technologies.
 
 ## Github Stats
 

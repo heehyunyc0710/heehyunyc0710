@@ -11,39 +11,7 @@ I'm a self-driven fullstack software engineer passionate about coding and AI/ML 
 
 ## Current Projects
 
-My current projects are a reflection of my passion for innovation and problem-solving. I'm always working on exciting and challenging tasks, striving to improve and contribute to the tech community.
-
-Feel free to explore some of my projects:
-
-1. Full Stack  
-
-    - Moment
-    [Live](https://moment-2igd.onrender.com)
-     & [Repo](https://github.com/heehyunyc0710/yc-Moment)
-  
-   - Petsy
-    [Demo](https://www.youtube.com/watch?v=zZzEIE8DafE)
-   & [Repo](https://github.com/nickhosman/Petsy)
- 
-2.  AI Full Stack Applications
-
-   - Tools used:
-     
-       - RAG, Pinecone, LangChain Vector Embeddings, AWS Bedrock, LLama 3.1, Claude 3, OpenAI, IBM Watson
-       - AWS EC2, AWS DynamoDB, AWS Lambda, MongoDB, Firebase, Stripe, Clerk, React Camera Pro
-       - Next.js, TypeScript, Python, Flask
-
-   
-3. Machine Learning Projects
-
-    - Customer Churn Prediction
-    [Repo](https://github.com/heehyunyc0710/customer_churn_prediction)
-
-
-
-These projects showcase my skills and dedication to creating impactful solutions. Stay tuned for more updates and improvements!
-
-
+https://yc-projects-gallery.vercel.app/
 
 ## Tech Stack & Tools
 

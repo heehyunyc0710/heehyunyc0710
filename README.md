@@ -4,11 +4,6 @@
 
 I'm a self-driven fullstack software engineer passionate about product development and AI/ML technologies.
 
-## Github Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=heehyunyc0710)](https://git.io/streak-stats)
-
-
 ## Current Projects
 
 https://yc-projects-gallery.vercel.app/

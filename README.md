@@ -1,4 +1,4 @@
-# Hello, I'm Yi Chen! 👋
+# Hello, I'm YC! 👋
 
 ## About Me
 
